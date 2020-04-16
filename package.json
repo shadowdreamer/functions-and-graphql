@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/netlify-labs/functions-and-graphql.git"
+    "url": "git+https://github.com/shadowdreamer/functions-and-graphql.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/netlify-labs/functions-and-graphql/issues"
+    "url": "https://github.com/shadowdreamer/functions-and-graphql/issues"
   },
-  "homepage": "https://github.com/netlify-labs/functions-and-graphql#readme"
+  "homepage": "https://github.com/shadowdreamer/functions-and-graphql#readme"
 }
